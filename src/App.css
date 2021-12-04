@@ -37,6 +37,6 @@ main {
   grid-column: 1/4;
 }
 .div7 {
-  background-color: pink;
+  background-color: black;
   grid-column: 1/5;
 }
